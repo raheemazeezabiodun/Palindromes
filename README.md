@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/raheemazeezabiodun/Palindromes.svg?branch=master)](https://travis-ci.org/raheemazeezabiodun/Palindromes)
 # Palindromes
 Source code for my medium post on palindrome
 
