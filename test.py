@@ -9,7 +9,7 @@ class TestReverseString(unittest.TestCase):
         self.assertNotEqual(reverse_string('btoa'), 'atob')  # btoa == aotb
 
 
-class TestPalindrome(unitttest.TestCase):
+class TestPalindrome(unittest.TestCase):
     def test_is_palindrome(self):
         self.assertEqual(is_palindrome('hannah'), True)
         self.assertEqual(is_palindrome('mallam'), True)
